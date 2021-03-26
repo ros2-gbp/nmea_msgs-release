@@ -1,3 +1,26 @@
+## nmea_msgs (rolling) - 2.0.0-2
+
+The packages in the `nmea_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling nmea_msgs` on `Fri, 26 Mar 2021 12:54:15 -0000`
+
+The `nmea_msgs` package was released.
+
+Version of package(s) in repository `nmea_msgs`:
+
+- upstream repository: https://github.com/ros-drivers/nmea_msgs.git
+- release repository: https://github.com/ros2-gbp/nmea_msgs-release.git
+- rosdistro version: `2.0.0-1`
+- old version: `2.0.0-1`
+- new version: `2.0.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.10.3`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## nmea_msgs (rolling) - 2.0.0-1
 
 The packages in the `nmea_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -t rolling -r rolling nmea_msgs` on `Wed, 02 Sep 2020 14:58:06 -0000`
