@@ -1,0 +1,42 @@
+ros-humble-nmea-msgs (2.0.0-4jammy) jammy; urgency=high
+
+  * Initial release for ROS 2
+  * Contributors: Andreas Klintberg, Edward Venator
+
+ -- Ed Venator <evenator@gmail.com>  Fri, 17 May 2019 07:00:00 -0000
+
+ros-humble-nmea-msgs (1.1.0-4jammy) jammy; urgency=high
+
+  * Add specific NMEA messages (#5 <https://github.com/ros-drivers/nmea_msgs/issues/5>)
+    Add messages for the following NMEA sentences:
+    - GPGGA
+    - GPGSA
+    - GPGSV (and a submessage GpgsvSatellite)
+    - GPRMC
+    These messages are useful to GPS drivers that parse NMEA sentences
+    into specific ROS messages.
+  * Update maintainer to Ed Venator
+  * Contributors: Edward Venator, Eric Perko
+
+ -- Ed Venator <evenator@gmail.com>  Thu, 07 Dec 2017 08:00:00 -0000
+
+ros-humble-nmea-msgs (1.0.0-4jammy) jammy; urgency=high
+
+  * Release into Jade.
+
+ -- Ed Venator <evenator@gmail.com>  Thu, 23 Apr 2015 07:00:00 -0000
+
+ros-humble-nmea-msgs (0.1.1-4jammy) jammy; urgency=high
+
+  * Cleanup CMakeLists.txt and package.xml
+
+ -- Ed Venator <evenator@gmail.com>  Sun, 15 Feb 2015 08:00:00 -0000
+
+ros-humble-nmea-msgs (0.1.0-4jammy) jammy; urgency=high
+
+  * Initial version (released into Hydro)
+  * Supports NMEA0183 sentences
+
+ -- Ed Venator <evenator@gmail.com>  Sun, 21 Jul 2013 07:00:00 -0000
+
+
