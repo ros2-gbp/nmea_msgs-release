@@ -1,1 +1,1 @@
-{"base": "66ec5c6", "parent": "debian/rolling/nmea_msgs", "previous": "5faf46d", "trim": "", "trimbase": ""}
+{"base": "895bc0a", "parent": "debian/humble/nmea_msgs", "previous": "9172e5a", "trim": "", "trimbase": ""}
